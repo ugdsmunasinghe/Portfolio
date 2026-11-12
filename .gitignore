@@ -1,0 +1,14 @@
+# Dependencies & OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Git / IDE
+.vscode/
+.idea/
+
+# Scratch & temporary extraction files
+scratch/
+temp/
+
